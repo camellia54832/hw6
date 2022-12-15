@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\harry\desktop\school\高階程式語言\hw6\p10-9\p10-9\source.c(26): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\harry\desktop\school\高階程式語言\hw6\p10-9\p10-9\source.c(39): warning C4090: '=': 不同的 'const' 限定詞
+c:\users\harry\desktop\school\高階程式語言\hw6\p10-9\p10-9\source.c(40): warning C4090: '=': 不同的 'const' 限定詞
+  p10-9.vcxproj -> C:\Users\harry\Desktop\school\高階程式語言\Hw6\p10-9\Debug\p10-9.exe
